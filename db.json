@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Hotel Taj",
+      "description": "Best Hotel good Rooms",
+      "price": 2000,
+      "countInStock": 3,
+      "rating": 4.5,
+      "numReviews": 12
+    },
+    {
+      "id": 2,
+      "name": "Hotel Swathi",
+      "description": "Good Rooms",
+      "price": 1000,
+      "countInStock": 3,
+      "rating": 4,
+      "numReviews": 8
+    },
+    {
+      "id": 3,
+      "name": "Hotel Setha",
+      "description": "Good Rooms",
+      "price": 1800,
+      "countInStock": 3,
+      "rating": 3,
+      "numReviews": 12
+    },
+    {
+      "id": 4,
+      "name": "Hotel Good",
+      "description": "Good hotel and Good Food",
+      "price": 1500,
+      "rating": 5,
+      "numReviews": 12
+    },
+    {
+      "id": 5,
+      "name": "Beach View hotel",
+      "description": "Best HOtel",
+      "price": 1500,
+      "countInStock": 9,
+      "rating": 3.5,
+      "numReviews": 10
+    },
+    {
+      "id": 6,
+      "name": "Hyper HOtel",
+      "description": "BEst Hotel",
+      "price": 1500,
+      "countInStock": 9,
+      "rating": 4,
+      "numReviews": 12
+    },
+    {
+      "id": 7,
+      "name": "HOtel Grand",
+      "description": "Best Rooms",
+      "price": 1000,
+      "countInStock": 7,
+      "rating": 4.5,
+      "numReviews": 88
+    },
+    {
+      "id": 8,
+      "name": "Beach side View HOtel",
+      "description": "Best Facilities",
+      "price": 900,
+      "countInStock": 9,
+      "rating": 4.2,
+      "numReviews": 58
+    }
+  ],
+  "users": [
+    {
+      "name": "Nachi",
+      "email": "hi@gmail.com",
+      "password": "123",
+      "Token": "",
+      "id": 1
+    }
+  ]
+}
